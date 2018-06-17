@@ -1,1 +1,2 @@
 Content in my_file.
+This is another line.
